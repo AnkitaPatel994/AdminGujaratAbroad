@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">AdminGujaratAbroad</string>
+    <string name="title_activity_login">Gujarat Abroad</string>
+    <string name="title_activity_home">Gujarat Abroad</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_news">Gujarat Abroad</string>
+    <string name="title_activity_video">Gujarat Abroad</string>
+    <string name="title_activity_advertise">Gujarat Abroad</string>
+    <string name="title_activity_feedback">Gujarat Abroad</string>
+    <string name="title_activity_category">Gujarat Abroad</string>
+
+    <string name="err_msg_uname">Enter valid Username.</string>
+    <string name="err_msg_pass">Enter valid Password.</string>
+    <string name="err_msg_title">Enter valid Title.</string>
+    <string name="err_msg_url">Enter valid Url.</string>
+    <string name="err_msg_newsTitle">Enter valid News Title.</string>
+    <string name="err_msg_newsInfo">Enter valid News Information.</string>
+    <string name="err_msg_videoTitle">Enter valid video Title.</string>
+    <string name="err_msg_category">Enter valid Category Name.</string>
+
+    <string name="nav_welcome">Welcome Admin</string>
+    <string name="btn_news_category">News Category</string>
+    <string name="btn_news">News</string>
+    <string name="btn_video">Video</string>
+    <string name="btn_advertisement">Advertisement</string>
+    <string name="btn_choosevideo">Choose Video</string>
+    <string name="btn_chooseimage">Choose Image</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_english">English</string>
+    <string name="btn_gujarati">Gujarati</string>
+    <string name="btn_newsfilter">News Filter</string>
+
+    <string name="btn_add_video">Add Video</string>
+    <string name="btn_edit_Video">Edit Video</string>
+
+    <string name="btn_add_news">Add News</string>
+    <string name="btn_edit_news">Edit News</string>
+
+    <string name="btn_add_category">Add Category</string>
+    <string name="btn_edit_category">Edit Category</string>
+
+    <string name="btn_add_Advertisement">Add Advertisement</string>
+    <string name="btn_edit_Advertisement">Edit Advertisement</string>
+
+    <string name="txt_hint_videotitle">Video Title</string>
+    <string name="txt_hint_newstitle">News Title</string>
+    <string name="txt_hint_advertisetitle">Advertise Title</string>
+    <string name="txt_hint_newsinfo">News Information</string>
+    <string name="txt_hint_categoryname">Category Name</string>
+    <string name="txt_hint_username">Username</string>
+    <string name="txt_hint_password">Password</string>
+    <string name="txt_hint_websideurl">Webside URL</string>
+
+    <string name="txt_hint_startdate">Start Date</string>
+    <string name="txt_hint_enddate">End Date</string>
+
+
+</resources>

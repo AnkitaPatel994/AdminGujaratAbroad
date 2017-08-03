@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="err_msg_newsTitle"> સમાચાર નુ શીર્ષક સાચું નાખો.</string>
+    <string name="err_msg_newsInfo">સમાચાર ની વિગતો સાચી નાખો.</string>
+    <string name="err_msg_videoTitle">વિડિઓ શીર્ષક સાચું નાખો.</string>
+
+    <string name="txt_hint_videotitle">વિડિઓ શીર્ષક</string>
+    <string name="txt_hint_newstitle">સમાચાર શીર્ષક</string>
+    <string name="txt_hint_newsinfo">સમાચાર વિગતો</string>
+
+</resources>

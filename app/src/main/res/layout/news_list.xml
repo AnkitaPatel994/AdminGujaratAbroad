@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:id="@+id/ivImgNewsList"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:id="@+id/txtNewsTitleList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_toRightOf="@+id/ivImgNewsList"
+        android:textSize="20dp" />
+
+    <View style="@style/Divider"/>
+
+</RelativeLayout>

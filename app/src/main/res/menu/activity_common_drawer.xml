@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_newscat"
+            android:title="News Category" />
+        <item
+            android:id="@+id/nav_news"
+            android:title="News" />
+        <item
+            android:id="@+id/nav_videos"
+            android:title="Videos" />
+        <item
+            android:id="@+id/nav_advertisement"
+            android:title="Advertisement" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout" />
+            </group>
+</menu>
